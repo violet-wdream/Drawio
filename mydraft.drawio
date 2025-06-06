@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="27.1.1">
   <diagram name="第 1 页" id="CgbGqWeiciak2SSr_8g0">
-    <mxGraphModel dx="4434" dy="2106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3860" dy="1830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3871,17 +3871,33 @@
         <mxCell id="TAeVWBykaGuggMmCpu49-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;退出游戏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
           <mxGeometry x="116.25" y="727.75" width="187.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TAeVWBykaGuggMmCpu49-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-47" target="TAeVWBykaGuggMmCpu49-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TAeVWBykaGuggMmCpu49-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择模式&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="149.5" y="-14.5" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAeVWBykaGuggMmCpu49-25" target="TAeVWBykaGuggMmCpu49-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2024.5" y="-1005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择模式&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2024.5" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAeVWBykaGuggMmCpu49-47" target="TAeVWBykaGuggMmCpu49-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-57" value="主线模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TAeVWBykaGuggMmCpu49-53">
+          <mxGeometry x="0.0118" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TAeVWBykaGuggMmCpu49-47" target="TAeVWBykaGuggMmCpu49-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-61" value="娱乐模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TAeVWBykaGuggMmCpu49-60">
+          <mxGeometry x="-0.1023" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-59" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1789" y="-915" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
