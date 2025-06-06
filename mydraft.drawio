@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="27.1.1">
   <diagram name="第 1 页" id="CgbGqWeiciak2SSr_8g0">
-    <mxGraphModel dx="3607" dy="2106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4434" dy="2106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3792,31 +3792,25 @@
           <mxGeometry x="116.25" y="739.5" width="187.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1524" y="-829.5" width="636" height="799.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TAeVWBykaGuggMmCpu49-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-25" target="TAeVWBykaGuggMmCpu49-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TAeVWBykaGuggMmCpu49-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2174" y="-888.25" width="636" height="799.5" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-27" target="TAeVWBykaGuggMmCpu49-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;读取存档/新建存档&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="72.5" y="90" width="275" height="60" as="geometry" />
+          <mxGeometry x="72.5" y="78.25" width="275" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-29" target="TAeVWBykaGuggMmCpu49-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;新手引导&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="116.25" y="179.75" width="187.5" height="60" as="geometry" />
+          <mxGeometry x="116.25" y="168" width="187.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-31" target="TAeVWBykaGuggMmCpu49-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;消灭敌人获取金钱/经验/物品&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="72" y="278" width="275" height="60" as="geometry" />
+          <mxGeometry x="72" y="266.25" width="275" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-33" target="TAeVWBykaGuggMmCpu49-36">
           <mxGeometry relative="1" as="geometry" />
@@ -3824,12 +3818,12 @@
         <mxCell id="TAeVWBykaGuggMmCpu49-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-33" target="TAeVWBykaGuggMmCpu49-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="508" y="403" />
+              <mxPoint x="508" y="391.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;使用金钱/物品交易或者合成物品&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;消耗技能点解锁技能树&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="20" y="372.87" width="380" height="60" as="geometry" />
+          <mxGeometry x="20" y="361.12" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-36" target="TAeVWBykaGuggMmCpu49-38">
           <mxGeometry relative="1" as="geometry" />
@@ -3848,34 +3842,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否退出游戏&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="98.13" y="479.5" width="223.75" height="120" as="geometry" />
+          <mxGeometry x="98.13" y="467.75" width="223.75" height="120" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-38" target="TAeVWBykaGuggMmCpu49-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;挑战Boss&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="380" y="509.5" width="256" height="60" as="geometry" />
+          <mxGeometry x="380" y="497.75" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;游戏结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="448" y="739.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="448" y="727.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-41" target="TAeVWBykaGuggMmCpu49-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;保存游戏数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="35" y="639.5" width="350" height="60" as="geometry" />
+          <mxGeometry x="35" y="627.75" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-43" target="TAeVWBykaGuggMmCpu49-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="269.5" as="targetPoint" />
+            <mxPoint x="20" y="257.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="770" />
-              <mxPoint y="120" />
+              <mxPoint y="758.25" />
+              <mxPoint y="108.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TAeVWBykaGuggMmCpu49-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;退出游戏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
-          <mxGeometry x="116.25" y="739.5" width="187.5" height="60" as="geometry" />
+          <mxGeometry x="116.25" y="727.75" width="187.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TAeVWBykaGuggMmCpu49-23" source="TAeVWBykaGuggMmCpu49-47" target="TAeVWBykaGuggMmCpu49-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选择模式&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="TAeVWBykaGuggMmCpu49-23">
+          <mxGeometry x="149.5" y="-14.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAeVWBykaGuggMmCpu49-25" target="TAeVWBykaGuggMmCpu49-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAeVWBykaGuggMmCpu49-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2024.5" y="-1005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
