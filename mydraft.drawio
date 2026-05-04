@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0">
   <diagram name="第 1 页" id="CgbGqWeiciak2SSr_8g0">
-    <mxGraphModel dx="5349" dy="1922" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4683" dy="1612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4298,6 +4298,18 @@
         </mxCell>
         <mxCell id="_8W7naKwTE1kJxVbOggL-14" parent="1" style="whiteSpace=wrap;html=1;" value="仓库" vertex="1">
           <mxGeometry height="60" width="120" x="-3093" y="-496" as="geometry" />
+        </mxCell>
+        <mxCell id="mChPLnSNb2948Zq7IXp0-1" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="280" y="2470" as="geometry" />
+        </mxCell>
+        <mxCell id="mChPLnSNb2948Zq7IXp0-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="74.25" width="244" x="-3510" y="-854" as="geometry" />
+        </mxCell>
+        <mxCell id="mChPLnSNb2948Zq7IXp0-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;textDirection=vertical-lr;fontFamily=宋体;" value="&lt;font&gt;支持层&lt;/font&gt;" vertex="1">
+          <mxGeometry height="66" width="60" x="-3570" y="-845.75" as="geometry" />
+        </mxCell>
+        <mxCell id="mChPLnSNb2948Zq7IXp0-11" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=east;flipV=0;legacyAnchorPoints=0;flipH=1;aspect=fixed;size=24;" value="" vertex="1">
+          <mxGeometry height="58.98" width="118.66" x="-3447.33" y="-934" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
