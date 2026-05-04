@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0">
   <diagram name="第 1 页" id="CgbGqWeiciak2SSr_8g0">
-    <mxGraphModel dx="4753" dy="1674" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4753" dy="2474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4385,6 +4385,78 @@
         </mxCell>
         <mxCell id="kduzDq_HpktUGYlG30WU-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;支持层&lt;/font&gt;" vertex="1">
           <mxGeometry height="52.5" width="21" x="-3534" y="-845.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-83" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-84" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3476.75" y="-1651" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="&lt;font&gt;卡车运行至指定位置&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="82" x="-3641.25" y="-1673" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-87" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kduzDq_HpktUGYlG30WU-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-91" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="龙门吊运行至卡车上方" vertex="1">
+          <mxGeometry height="44" width="92" x="-3488.25" y="-1673" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-94" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3446.9868421052633" y="-1500.4736842105262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="吊具瞄准" vertex="1">
+          <mxGeometry height="44" width="82" x="-3528.5" y="-1583" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-99" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="抓钩下降" vertex="1">
+          <mxGeometry height="44" width="82" x="-3437.25" y="-1583" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=宋体;dashed=1;dashPattern=1 2;strokeWidth=0;fillColor=none;strokeColor=none;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;协同运动仿真&lt;/font&gt;" vertex="1">
+          <mxGeometry height="11" width="82" x="-3442.25" y="-1624" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-110" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-111" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="抓钩锁定集装箱" vertex="1">
+          <mxGeometry height="44" width="92" x="-3488.25" y="-1494" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=宋体;dashed=1;dashPattern=1 2;strokeWidth=0;fillColor=none;strokeColor=none;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;协同运动仿真&lt;/font&gt;" vertex="1">
+          <mxGeometry height="11" width="82" x="-3442.25" y="-1511" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-102" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="45" width="120" x="-3247" y="-1584" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-115" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="kduzDq_HpktUGYlG30WU-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="吊具吊起集装箱" vertex="1">
+          <mxGeometry height="44" width="82" x="-3528.88" y="-1405" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-116" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3397" y="-1341" />
+              <mxPoint x="-3600" y="-1341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="抓钩复位" vertex="1">
+          <mxGeometry height="44" width="82" x="-3437.63" y="-1405" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-117" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="龙门吊将集装箱卸载到指定位置" vertex="1">
+          <mxGeometry height="44" width="92" x="-3646.25" y="-1405" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
