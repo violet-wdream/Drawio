@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0">
   <diagram name="第 1 页" id="CgbGqWeiciak2SSr_8g0">
-    <mxGraphModel dx="4987" dy="3421" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4596" dy="3175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4745,7 +4745,7 @@
           <mxGeometry height="54" width="124.81" x="-2663" y="-2521" as="geometry" />
         </mxCell>
         <mxCell id="kduzDq_HpktUGYlG30WU-240" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="28" width="120" x="-2422" y="-2495" as="geometry" />
+          <mxGeometry height="25" width="120" x="-3261" y="-2475" as="geometry" />
         </mxCell>
         <mxCell id="kduzDq_HpktUGYlG30WU-245" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontFamily=宋体;" target="kduzDq_HpktUGYlG30WU-244" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -4835,6 +4835,56 @@
         </mxCell>
         <mxCell id="kduzDq_HpktUGYlG30WU-295" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fontFamily=宋体;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=3;spacingRight=3;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Unity&lt;/font&gt;" vertex="1">
           <mxGeometry height="44" width="92" x="-1642.75" y="-2286" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-395" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-396" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;fontFamily=宋体;" target="kduzDq_HpktUGYlG30WU-398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-396" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fontFamily=宋体;" value="&lt;font&gt;开始&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="103" x="-3005.9100000000003" y="-2505" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-397" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontFamily=宋体;" target="kduzDq_HpktUGYlG30WU-400" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-398" parent="1" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=宋体;" value="&lt;font&gt;用户输入（点击、拖拽、触摸）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="124.81" x="-3016.81" y="-2450" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-399" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;fontFamily=宋体;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2954.31" y="-2340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-400" parent="1" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=宋体;" value="&lt;font face=&quot;Times New Roman&quot;&gt;进入Event System Manager&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="124.81" x="-3016.81" y="-2395" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-415" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-413">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-420" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-419">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-406" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fontFamily=宋体;" value="标准输入模块" vertex="1">
+          <mxGeometry height="60" width="111" x="-3009.91" y="-2340" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-413" parent="1" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=宋体;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Raycaster&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;确定点击元素&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="-3014.4" y="-2232" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-414" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Times New Roman;" value="Y" vertex="1">
+          <mxGeometry height="26" width="36" x="-2945.9" y="-2260" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-417" parent="1" style="whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=none;fontFamily=Times New Roman;" value="N" vertex="1">
+          <mxGeometry height="26" width="36" x="-2902.9" y="-2340" as="geometry" />
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-422" edge="1" parent="1" source="kduzDq_HpktUGYlG30WU-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kduzDq_HpktUGYlG30WU-413">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2832" y="-2262" />
+              <mxPoint x="-2832" y="-2262" />
+              <mxPoint x="-2832" y="-2217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kduzDq_HpktUGYlG30WU-419" parent="1" style="whiteSpace=wrap;html=1;fontSize=9;fontFamily=宋体;" value="使用触摸输入模块" vertex="1">
+          <mxGeometry height="34" width="61" x="-2860.5" y="-2327" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
